@@ -1,0 +1,6 @@
+moc*
+qdragtest
+qrc_resources.cpp
+b5
+Makefile
+.qmake*
